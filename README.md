@@ -1,2 +1,2 @@
-# python-portfolio
-Meu portfolio de python
+# python-portifolio
+Meu portifólio de python
